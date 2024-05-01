@@ -1,0 +1,388 @@
+Observation sequence Q: LCCCCCCCCCCCLLLLLLLLLLLLLLLLLLLLLLL
+Length of Q: 35
+
+After Observation 1 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 2 = C:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 3 = C:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 4 = C:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 5 = C:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 6 = C:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 7 = C:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 8 = C:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 9 = C:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 10 = C:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 11 = C:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 12 = C:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 13 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 14 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 15 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 16 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 17 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 18 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 19 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 20 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 21 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 22 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 23 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 24 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 25 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 26 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 27 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 28 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 29 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 30 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 31 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 32 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 33 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 34 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
+After Observation 35 = L:
+
+P(h1 | Q) = 0.1
+P(h2 | Q) = 0.2
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.2
+P(h5 | Q) = 0.1
+
+Probability that the next candy we pick will be C, given Q: 1
+Probability that the next candy we pick will be L, given Q: 1
+
