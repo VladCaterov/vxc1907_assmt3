@@ -16,19 +16,15 @@ def calculatePosteriorHypothesisProb(observations, priori, hypothesis):
     = P(Qt | hi) * P_t-1(h_1) / P_t(Q_t+1)
     '''
     
-    currObservedGivenHypothesis = 1
-
+    
     observationCount = len(observations)
     if observationCount == 0:
         return priori[hypothesis]  
+    if observations[observationCount - 1] == 'C':
+
     previousPosteriorHypothesisProb = calculatePosteriorHypothesisProb(observations[0:observationCount - 1], priori, hypothesis)
     posteriorHypothesisProb = (currObservedGivenHypothesis * previousPosteriorHypothesisProb) / calculatePosteriorObservationProb(observations[0:observationCount - 1],priori, observations[observationCount - 1])
 
-        # if len(observations) == 0:
-        #     return priori[hypothesis]
-        # prevObservations = observations[0:len(observations)]
-        # prevPosteriorHypothesisProb = calculatePosteriorHypothesisProb(prevObservations, priori, hypothesis)
-        # currentObserved = observations[len(observations) - 1]
     
         
    
@@ -83,8 +79,8 @@ def compute_a_posteriori(observations):
             posteriorHypothesisProb = calculatePosteriorHypothesisProb(observations, priori, hyp)
             file.write("P(" + hyp + " | Q) = " + str(posteriorHypothesisProb) + "\n")
 
-        condProb1 = calculatePosteriorObservationProb(observations, priori, 'C')
-        condProb2 = calculatePosteriorObservationProb(observations, priori, 'L')
+        condProb1 = calculatePosteriorObservationProb(observations, priori)
+        condProb2 = 1 - condProb2
         file.write("\nProbability that the next candy we pick will be C, given Q: " + str(condProb1) + '\n')  
         file.write("Probability that the next candy we pick will be L, given Q: " + str(condProb2) + "\n\n")  
     file.close()
